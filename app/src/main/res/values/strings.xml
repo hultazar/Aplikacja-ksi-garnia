@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">iBooOk</string>
+    <array name="departments">
+        <item>Podstawowe</item>
+        <item>Gimnazjalne</item>
+        <item>Licealne</item>
+        <item>Zawodowe-Techniczne</item>
+        <item>Wyższe</item>
+    </array>
+    <array name="rodzaj">
+        <item>Animowane</item>
+        <item>Przygodowe</item>
+        <item>Historyczne</item>
+        <item>Naukowe</item>
+        <item>Poradniki</item>
+    </array>
+</resources>
+
+
